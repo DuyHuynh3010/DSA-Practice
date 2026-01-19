@@ -8,3 +8,4 @@ int linearSearch(int arr[], int size, int target) {
         }
     }
     return -1; 
+}
